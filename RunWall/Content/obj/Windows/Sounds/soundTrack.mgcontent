@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dbrun/My Cloud/Backup Pen Drive/Computer Programmer - Conestoga/3rd Term/Object oriented Gaming/Final project -/RunWall/RunWall/Content/Sounds/soundTrack.mp3</SourceFile>
+  <SourceTime>2018-01-06T17:22:05.5612285-05:00</SourceTime>
+  <DestFile>C:/Users/dbrun/My Cloud/Backup Pen Drive/Computer Programmer - Conestoga/3rd Term/Object oriented Gaming/Final project -/RunWall/RunWall/Content/bin/Windows/Sounds/soundTrack.xnb</DestFile>
+  <DestTime>2018-01-09T20:26:50.698884-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/dbrun/My Cloud/Backup Pen Drive/Computer Programmer - Conestoga/3rd Term/Object oriented Gaming/Final project -/RunWall/RunWall/Content/bin/Windows/Sounds/soundTrack.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

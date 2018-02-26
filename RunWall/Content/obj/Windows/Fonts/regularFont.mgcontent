@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dbrun/My Cloud/Backup Pen Drive/Computer Programmer - Conestoga/3rd Term/Object oriented Gaming/Final project -/RunWall/RunWall/Content/Fonts/regularFont.spritefont</SourceFile>
+  <SourceTime>2018-01-09T19:18:08.2908625-05:00</SourceTime>
+  <DestFile>C:/Users/dbrun/My Cloud/Backup Pen Drive/Computer Programmer - Conestoga/3rd Term/Object oriented Gaming/Final project -/RunWall/RunWall/Content/bin/Windows/Fonts/regularFont.xnb</DestFile>
+  <DestTime>2018-01-09T20:26:49.4512528-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
